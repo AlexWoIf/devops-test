@@ -18990,8 +18990,8 @@
                 }, {
                     "Id": 122395386,
                     "QuestionId": 31264957,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>Права на удаление</p>",
+                    "TextWOHtml": "Права на удаление",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
