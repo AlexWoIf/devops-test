@@ -19912,8 +19912,8 @@
                 }, {
                     "Id": 122397101,
                     "QuestionId": 31265322,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>Графическая оболочка для Ubuntu</p>",
+                    "TextWOHtml": "Графическая оболочка для Ubuntu",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
