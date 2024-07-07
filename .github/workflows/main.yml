@@ -22,6 +22,6 @@ jobs:
     - name: connect and pull
       run: |
         echo ${{ secrets.WORK_DIR }}
-        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "sudo cd ${{ secrets.WORK_DIR }} && sudo git pull && exit"
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "sudo sh -c 'cd ${{ secrets.WORK_DIR }} && git pull && exit'"
     - name: cleanup
       run: rm -rf ~/.ssh
