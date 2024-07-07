@@ -19554,8 +19554,8 @@
                 }, {
                     "Id": 122396407,
                     "QuestionId": 31265168,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>ОС пользователя</p>",
+                    "TextWOHtml": "ОС пользователя",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
