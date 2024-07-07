@@ -14049,8 +14049,8 @@
                 }, {
                     "Id": 122043849,
                     "QuestionId": 31176074,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>-l</p>",
+                    "TextWOHtml": "-l",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
