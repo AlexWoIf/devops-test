@@ -20,7 +20,8 @@ jobs:
         echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
         ssh-keyscan -H ${{ secrets.SSH_HOST }} > ~/.ssh/known_hosts
     - name: connect and pull
-      run: echo ${{ secrets.WORK_DIR }}
-      run: ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "sudo cd ${{ secrets.WORK_DIR }} && sudo git pull && exit"
+      run: |
+        echo ${{ secrets.WORK_DIR }}
+        ssh ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} "sudo cd ${{ secrets.WORK_DIR }} && sudo git pull && exit"
     - name: cleanup
       run: rm -rf ~/.ssh
