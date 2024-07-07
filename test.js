@@ -15714,8 +15714,8 @@
                 }, {
                     "Id": 122050286,
                     "QuestionId": 31177716,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>имя вызванного скрипта</p>",
+                    "TextWOHtml": "имя вызванного скрипта",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
