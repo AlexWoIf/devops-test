@@ -13626,8 +13626,8 @@
                 }, {
                     "Id": 122043630,
                     "QuestionId": 31176025,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p><strong>Long Time Support</strong>; &laquo;поддержка в течение длительного времени&raquo;</p>",
+                    "TextWOHtml": "Long Time Support; «поддержка в течение длительного времени»",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
