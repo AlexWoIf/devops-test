@@ -325,7 +325,7 @@
                     "ValueText": "",
                     "ValueFloat": 0.0,
                     "IsDop": false,
-                    "IsRightAnswer": false,
+                    "IsRightAnswer": true,
                     "ParentAnswerId": null,
                     "ChildAnswers": null,
                     "HandCheckResult": 0.0,
