@@ -14971,8 +14971,8 @@
                 }, {
                     "Id": 122049473,
                     "QuestionId": 31177455,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>docker run bash</p>",
+                    "TextWOHtml": "docker run bash",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
