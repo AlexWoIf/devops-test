@@ -18491,8 +18491,8 @@
                 }, {
                     "Id": 122394526,
                     "QuestionId": 31264773,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>Маршрутизация пакетов</p>",
+                    "TextWOHtml": "Маршрутизация пакетов",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
