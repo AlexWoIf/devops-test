@@ -9959,7 +9959,7 @@
             "TestId": 1618006,
             "Number": 46,
             "QuestionType": 10,
-            "Text": "<p>Что выведется в результате выполнения?</p>\n<p>if [ 4 &ndash;gt 5 ]</p>\n<p>then</p>\n<p>echo &ldquo;0&rdquo;</p>\n<p>else</p>\n<p>echo &ldquo;1&rdquo;</p>\n<p>fi</p>\n<p>?</p>",
+            "Text": "<p>Что выведется в результате выполнения?</p>\n<p>if [ 4 &ndash;gt 5 ];</p>\n<p>then</p>\n<p>echo &ldquo;0&rdquo;;</p>\n<p>else</p>\n<p>echo &ldquo;1&rdquo;;</p>\n<p>fi</p>\n<p>?</p>",
             "Text1": "",
             "Text2": "",
             "AnswerType": 210,
