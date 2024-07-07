@@ -6487,7 +6487,7 @@
             "TestId": 1618006,
             "Number": 30,
             "QuestionType": 10,
-            "Text": "<p>Вывести построчно в цикле for var $(cat $file)</p>",
+            "Text": "<p>Вывести построчно в цикле for var in $(cat $file)</p>",
             "Text1": "",
             "Text2": "",
             "AnswerType": 210,
