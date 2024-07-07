@@ -17417,8 +17417,8 @@
                 }, {
                     "Id": 122394311,
                     "QuestionId": 31264707,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>По подписке</p>",
+                    "TextWOHtml": "По подписке",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
