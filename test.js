@@ -12666,7 +12666,7 @@
             "TestId": 1618006,
             "Number": 59,
             "QuestionType": 10,
-            "Text": "<p>Что будет выведено?</p>\n<p>false</p>\n<p>echo$</p>",
+            "Text": "<p>Что будет выведено?</p>\n<p>false</p>\n<p>echo $</p>",
             "Text1": "",
             "Text2": "",
             "AnswerType": 210,
