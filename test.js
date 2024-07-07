@@ -15253,8 +15253,8 @@
                 }, {
                     "Id": 122049733,
                     "QuestionId": 31177549,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>8000</p>",
+                    "TextWOHtml": "8000",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
