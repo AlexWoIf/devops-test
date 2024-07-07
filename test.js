@@ -19272,8 +19272,8 @@
                 }, {
                     "Id": 122395882,
                     "QuestionId": 31265062,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>Выводит список символьных ссылок</p>",
+                    "TextWOHtml": "Выводит список символьных ссылок",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
