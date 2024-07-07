@@ -17558,8 +17558,8 @@
                 }, {
                     "Id": 122394342,
                     "QuestionId": 31264714,
-                    "Text": "",
-                    "TextWOHtml": "",
+                    "Text": "<p>Домашний каталог суперюзера</p>",
+                    "TextWOHtml": "Домашний каталог суперюзера",
                     "Score": 0.0,
                     "Score1": 0.0,
                     "UploadedFiles": null,
